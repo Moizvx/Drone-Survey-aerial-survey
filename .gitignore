@@ -1,0 +1,27 @@
+# Node / package manager
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+.preview/
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Local debug scratch
+dbg*.cjs
+dbg*.mjs
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.local
+
+# Verification scratch
+.verify/

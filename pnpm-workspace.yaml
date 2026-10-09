@@ -1,0 +1,3 @@
+# Only esbuild needs to run an install script (it downloads its native binary).
+allowBuilds:
+  esbuild: true
